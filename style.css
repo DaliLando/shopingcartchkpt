@@ -1,0 +1,27 @@
+#container {
+    margin: 100px;
+    padding: 45px;
+}
+
+.qnt {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.cards {
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.totprice{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:10px;
+}
+
+.bgchange{
+ color: red;
+}
